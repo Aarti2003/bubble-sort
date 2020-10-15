@@ -1,2 +1,2 @@
 # bubble-sort 
-Amazing sorting technique
+Amazing sorting technique! 
